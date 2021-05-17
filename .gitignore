@@ -1,0 +1,6 @@
+.idea
+openbackend_clustering.iml
+*.pyc
+*.png
+*.pickle
+*.log
